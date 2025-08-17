@@ -1,5 +1,5 @@
 # GinkGo.ai
 
-![Project Logo](logo.png)
+![Project Logo](ginkgo02.png)
 
 *Coming Soon...*
